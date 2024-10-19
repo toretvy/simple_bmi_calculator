@@ -2,6 +2,6 @@
 
 Flutter BMI calculator.
 
-## Getting Started
+## About the project
 
 This project is a simple BMI calculator with gender, height, weight, age.
